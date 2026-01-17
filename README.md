@@ -11,7 +11,7 @@ With each move, that lifelong passion turned into a growing challenge. The sheer
 
 Read is a passion and knows where our books are became concern, because when someone visits her home or when we want to read a specific book, we ask her if she has it and sometimes we never see that book again. 
 
-Booknest is a learning project when we came together one senior devoloper and one beginner QA. 
+Booknest is a learning project when we came together one medium devoloper and one beginner QA. 
 
 ## functional requirements
 - track books that exist in our repository / library
